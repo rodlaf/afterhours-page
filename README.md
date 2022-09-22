@@ -1,1 +1,3 @@
+theme: minima
+
 # afterhours-page
