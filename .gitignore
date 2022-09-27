@@ -1,2 +1,6 @@
 # Jekyll
 .jekyll-cache/
+_site/
+
+# VSCode
+.vscode/
