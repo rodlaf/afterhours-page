@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About
+layout: markdown
+title: Privacy Policy
 ---
 
 # Privacy Policy
