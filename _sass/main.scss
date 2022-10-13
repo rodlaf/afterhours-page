@@ -3,7 +3,10 @@ html {
   background-color: #0F172A;
   color: white;
   font-family: 'Inter', sans-serif;
-  font-size: 80%;
+  font-size: 70%;
+  @media (pointer: coarse) {
+    font-size: 110%
+  }
 }
 
 body {
@@ -17,10 +20,6 @@ main {
   line-height: 1.75;
   padding: 1.75rem;
   font-size: 1.5rem;
-  @media (pointer: coarse) {
-    font-size: 3rem;
-    padding: 4.5rem;
-  }
 }
 
 nav {
@@ -33,14 +32,10 @@ a {
   color: #75808c;
   text-decoration-line: none;
   font-size: 1.5rem;
-  @media (pointer: coarse) { 
-    font-size: 2.5rem;
-
-  }
 }
 
 .nav-link {
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 
 .current-link {
@@ -59,10 +54,6 @@ a {
 
 .banner {
   font-size: 4rem;
-  @media (pointer: coarse) { 
-    font-size: 7rem;
-
-  }
   text-align: center;
   font-weight: bold;
 }
