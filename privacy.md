@@ -7,7 +7,7 @@ title: Privacy Policy
 
 Effective as of September 30th, 2022.
 
-This Privacy Policy describes how Rodney Lafuente Mercado, referred to hereafter as Afterhours (
+This Privacy Policy describes how Afterhours (
 "we", “us” or "our") handles information that we collect through our digital properties that link to
 this Privacy Policy, including our website and mobile application (collectively, the “Service”), as
 well as through social media, and other activities described in this Privacy Policy. Afterhours may
@@ -223,6 +223,4 @@ acceptance of the modified Privacy Policy.
 
 ## How to contact us
 
-Email: rodneyslafuente@gmail.com  
-Mail: 56 Linnaean St #213, Cambridge, MA 02138  
-Phone: (605) 202-0853
+Email: contact.afterhours.app@gmail.com  
