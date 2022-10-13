@@ -3,9 +3,8 @@ html {
   background-color: #0F172A;
   color: white;
   font-family: 'Inter', sans-serif;
-  font-size: 70%;
   @media (pointer: coarse) {
-    font-size: 120%
+    font-size: 200%
   }
 }
 
@@ -19,23 +18,23 @@ main {
   margin: auto;
   line-height: 1.75;
   padding: 2rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 nav {
   position: absolute;
-  bottom: 2.5rem;
-  right: 2.5rem;
+  bottom: 2rem;
+  right: 2rem;
 }
 
 a {
   color: #75808c;
   text-decoration-line: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .nav-link {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .current-link {
@@ -44,7 +43,6 @@ a {
 
 .container {
   background: linear-gradient(-45deg, #0F172A, #243662);
-
   height: 100%;
   width: 100%;
   display: flex;
@@ -53,7 +51,7 @@ a {
 }
 
 .banner {
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   font-weight: bold;
 }
