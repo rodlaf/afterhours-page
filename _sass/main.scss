@@ -55,4 +55,18 @@ a {
   text-align: center;
   font-weight: bold;
   padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  appearance: button;
+  text-decoration: none;
+  color: white;
+  background-color: #394d7f;
+  margin: auto;
+  margin-top: 2rem;
+  padding: 0.8rem 1.4rem;
+  border-radius: 2rem;
+  font-size: 1.3rem;
 }
