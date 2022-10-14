@@ -4,18 +4,18 @@ html { height: 100%; background-color: #0F172A; color: white; font-family: 'Inte
 
 body { margin: 0; height: 100%; }
 
-main { max-width: 70ch; margin: auto; line-height: 1.75; padding: 2rem; font-size: 1rem; }
+main { max-width: 70ch; margin: auto; line-height: 1.75; padding: 1.5rem; font-size: 1rem; }
 
-nav { position: absolute; bottom: 2rem; right: 2rem; }
+nav { position: absolute; bottom: 1.5rem; right: 1.5rem; }
 
-a { color: #75808c; text-decoration-line: none; font-size: 1.2rem; }
+a { color: #75808c; text-decoration-line: none; font-size: 1rem; }
 
-.nav-link { margin-left: 1.5rem; }
+.nav-link { margin-left: 1rem; }
 
 .current-link { color: white; }
 
 .container { background: linear-gradient(-45deg, #0F172A, #243662); height: 100%; width: 100%; display: flex; align-items: center; justify-content: center; }
 
-.banner { font-size: 3rem; text-align: center; font-weight: bold; }
+.banner { font-size: 2.5rem; text-align: center; font-weight: bold; padding: 1rem; }
 
 /*# sourceMappingURL=styles.css.map */
