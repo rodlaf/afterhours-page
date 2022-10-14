@@ -16,8 +16,8 @@ a { color: #75808c; text-decoration-line: none; font-size: 1rem; }
 
 .container { background: linear-gradient(-45deg, #0F172A, #243662); height: 100%; width: 100%; display: flex; align-items: center; justify-content: center; }
 
-.banner { font-size: 2.5rem; text-align: center; font-weight: bold; padding: 1rem; display: flex; flex-direction: column; }
+.banner { font-size: 2.5rem; text-align: center; font-weight: bold; padding: 0rem 1rem; display: flex; flex-direction: column; }
 
-.link { appearance: button; text-decoration: none; color: white; background-color: #394d7f; margin: auto; margin-top: 2rem; padding: 0.8rem 1.4rem; border-radius: 2rem; font-size: 1.3rem; }
+.link { appearance: button; text-decoration: none; color: white; background-color: #394d7f; margin: 2rem auto; padding: 1rem 1.5rem; border-radius: 2rem; font-size: 1.3rem; }
 
 /*# sourceMappingURL=styles.css.map */
